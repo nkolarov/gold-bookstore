@@ -4,7 +4,7 @@
     var appLayout =
 		new kendo.Layout('<div id="main-content"></div>');
     var logoutLayout = new kendo.Layout("<div id='logout-button'></div>");
-    var data = persisters.get("gold-bookstore.apphb.comapi/");
+    var data = persisters.get("http://gold-bookstore.apphb.com/api/");
     vmFactory.setPersister(data);
 
     var router = new kendo.Router();
