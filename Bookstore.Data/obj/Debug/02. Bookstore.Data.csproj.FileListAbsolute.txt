@@ -1,0 +1,10 @@
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\bin\Debug\Bookstore.Data.dll.config
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\bin\Debug\Bookstore.Data.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\bin\Debug\Bookstore.Data.pdb
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\bin\Debug\Bookstore.Models.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\bin\Debug\EntityFramework.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\bin\Debug\Bookstore.Models.pdb
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\bin\Debug\EntityFramework.xml
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\obj\Debug\02. Bookstore.Data.csprojResolveAssemblyReference.cache
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\obj\Debug\Bookstore.Data.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Data\obj\Debug\Bookstore.Data.pdb

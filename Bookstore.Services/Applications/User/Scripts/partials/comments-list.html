@@ -1,0 +1,12 @@
+﻿<ul data-bind="source: comments" id="main-book-container" data-template="comments-template">
+</ul>
+<a class="gold-button" href="http://localhost:4541/Applications/User/index.html#/logged">Return to menu</a>
+
+<script id="comments-template" type="text/x-kendo-template">
+    <li>
+    <div data-bind="text: text"></div>
+    <div data-bind="text: username"></div>
+    <div data-bind="text: booktitle"></div>
+    <button data-bind = "attr: { comment-id: id }, events: { click: deleteComment }">Delete comment</button>
+    </li>
+</script>

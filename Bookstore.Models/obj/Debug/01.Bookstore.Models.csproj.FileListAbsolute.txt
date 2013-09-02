@@ -1,0 +1,5 @@
+D:\JSFrameworksTeamwork\BookstoreProject\01.Bookstore.Models\bin\Debug\01.Bookstore.Models.dll
+D:\JSFrameworksTeamwork\BookstoreProject\01.Bookstore.Models\bin\Debug\01.Bookstore.Models.pdb
+D:\JSFrameworksTeamwork\BookstoreProject\01.Bookstore.Models\obj\Debug\01.Bookstore.Models.csprojResolveAssemblyReference.cache
+D:\JSFrameworksTeamwork\BookstoreProject\01.Bookstore.Models\obj\Debug\01.Bookstore.Models.dll
+D:\JSFrameworksTeamwork\BookstoreProject\01.Bookstore.Models\obj\Debug\01.Bookstore.Models.pdb

@@ -1,0 +1,18 @@
+﻿<fieldset data-bind="source: book" id="main-user-details-container" data-template="book-details-template">
+    
+</fieldset>
+<br /><br /><a class="gold-button" href="http://localhost:4541/Applications/Admin/index.html#/logged">Return to menu</a>
+
+<script id="book-details-template" type="text/x-kendo-template">
+<div>
+    <ul>
+        <li>Book ID: <span data-bind="text: id"></span></li>
+        <li>Title: <input data-bind="value: title"></input></li>
+        <li>Publish Date: <span data-bind="text: publishDate"></span></li> 
+        <li>New Pubish Date: <input id="publishDateId" style="width:150px;" data-bind="value: publishDate"></input></li>
+        <li>Cover Url: <input id="gold-cover-url" data-bind="value: coverUrl"></input></li>
+    </ul>
+    <button data-bind="attr: { user-id: id }, events: { click: updateBookData }">Update Book Data</button>   
+</div>
+    
+</script>

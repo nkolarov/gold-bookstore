@@ -1,0 +1,17 @@
+﻿<fieldset data-bind="source: user" id="main-user-details-container" data-template="user-details-template">
+    
+</fieldset>
+<br /><br /><a class="gold-button" href="http://localhost:4541/Applications/Admin/index.html#/logged">Return to menu</a>
+
+<script id="user-details-template" type="text/x-kendo-template">
+<div>
+    <ul>
+        <li>User ID: <span data-bind="text: id"></span></li>
+        <li>UserName: <input data-bind="value: userName"></input></li>
+        <li>IsActive: <input type="checkbox" data-bind="checked: isActive" /></input></li>
+        <li>IsAdmin: <input type="checkbox" data-bind="checked: isAdmin" /></input></li>
+    </ul>
+    <button data-bind="attr: { user-id: id }, events: { click: updateUserData }">Update User Data</button>   
+</div>
+    
+</script>

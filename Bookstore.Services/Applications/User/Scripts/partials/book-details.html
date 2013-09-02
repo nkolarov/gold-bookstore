@@ -1,0 +1,33 @@
+﻿<ul data-bind="source: book" id="main-book-container" data-template="book-template">
+</ul>
+<div id="comments-container">
+    <ul data-bind="source: comments" data-template="comments-template"></ul>
+</div>
+<div id="comment-post-container">
+    <textarea data-bind="value: postedCommentText" id="post-content-value"></textarea>
+    <button data-bind="attr: { book-id: book[0].id }, events: { click: postComment }">Post Comment</button>   
+</div>
+<a class="gold-button" href="http://localhost:4541/Applications/User/index.html#/logged">Return to menu</a>
+
+<script id="book-template" type="text/x-kendo-template">
+    <li>
+    <div data-bind="text: title"></div>
+    <div data-bind="text: publishDate"></div>
+    <img data-bind="attr: { src: coverUrl }"/>
+    <ul class="author-list" data-bind="source: authors" data-template="list-template"></ul>
+    </li>
+</script>
+
+<script id="list-template" type="text/x-kendo-template">
+    <li>
+        <span data-bind="text: firstName"></span><span> </span><span data-bind="text: lastName">
+        <div data-bind="text: birthDate"></div>
+    </li>
+</script>
+
+<script id="comments-template" type="text/x-kendo-template">
+    <li>
+        <div data-bind="text: username"></div>
+        <div data-bind="text: text"></div>
+    </li>
+</script>

@@ -1,0 +1,31 @@
+﻿<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>User Name</th>
+            <th>Is Administrator</th>
+            <th>Is Active</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody data-template="row-template" data-bind="source: users">
+
+    </tbody>
+
+</table>
+<br /><br /><a class="gold-button" href="http://localhost:4541/Applications/Admin/index.html#/logged">Return to menu</a>
+
+
+<script id="list-template" type="text/x-kendo-template">
+    <li data-bind = "text: this"></li>
+</script>
+
+<script id="row-template" type="text/x-kendo-template">
+    <tr>
+        <td data-bind="text: id"></td>
+        <td data-bind="text: userName"></td>
+        <td data-bind="text: isAdmin"></td>
+        <td data-bind="text: isActive"></td>
+        <td><button data-bind="attr: { user-id: id }, events: { click: showDetails } ">See details</button></td>
+    </tr>
+</script>

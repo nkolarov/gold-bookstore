@@ -1,0 +1,36 @@
+﻿<select id ="select-author-field" data-text-field="fullName" data-value-field="id"
+       data-bind="source: authors, events: { change: changeBooks }, value: authorIdValue"></select>
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Publish Date</th>
+            <th>Authors</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody data-template="row-template" data-bind="source: books">
+
+    </tbody>
+
+</table>
+<a class="gold-button" href="http://localhost:4541/Applications/User/index.html#/logged">Return to menu</a>
+
+<script id="list-template" type="text/x-kendo-template">
+    <li data-bind = "text: this"></li>
+</script>
+
+<script id="row-template" type="text/x-kendo-template">
+    <tr>
+        <td data-bind="text: title"></td>
+        <td data-bind="text: publishDate"></td>
+        <td>
+            <ul class="author-list" data-bind="source: authorNames" data-template="list-template"></ul>
+        </td>
+    <td><button data-bind="attr: { book-id: id }, events: { click: showDetails } ">See details</button></td>
+    </tr>
+</script>
+
+<script>
+    $("#select-author-field").kendoDropDownList();    
+</script>

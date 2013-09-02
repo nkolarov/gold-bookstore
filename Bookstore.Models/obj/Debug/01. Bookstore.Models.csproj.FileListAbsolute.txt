@@ -1,0 +1,4 @@
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Models\bin\Debug\Bookstore.Models.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Models\bin\Debug\Bookstore.Models.pdb
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Models\obj\Debug\Bookstore.Models.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\Bookstore.Models\obj\Debug\Bookstore.Models.pdb

@@ -1,0 +1,11 @@
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.dll.config
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\Bookstore.Data.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\Bookstore.Models.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\Bookstore.Data.pdb
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\Bookstore.Models.pdb
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.dll
+C:\Users\N.Kolarov\Documents\Visual Studio 2012\Projects\Gold-BookStore\BookstoreProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
